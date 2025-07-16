@@ -1,0 +1,7 @@
+name: ChallengePlugin
+version: 1.0
+main: dev.challengeplugin.ChallengePlugin
+api-version: 1.21
+commands:
+  challenge:
+    description: Starte oder stoppe die Challenge
